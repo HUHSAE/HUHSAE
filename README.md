@@ -17,14 +17,13 @@ Here are some ideas to get you started:
 -->
 
 <div align = center>
-  -GitHub Stats
+  📊 GitHub Stats
   
   ![HUHSAE's GitHub stats](https://github-readme-stats.vercel.app/api?username=HUHSAE&show_icons=true&theme=nightowl)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HUHSAE&layout=compact&theme=nightowl)
   
-  -Baekjoon Stats
-  
+  ✏️ Baekjoon Stats
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dragonsd)](https://solved.ac/dragonsd)
   
 </div>
