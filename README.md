@@ -1,6 +1,6 @@
 ### Hi there 👋
   - 🧐 I'm attending thd Department of Computer Science at KNU
-  - 🌱 I’m currently learning Database, Data and Computer Communications
+  - 🌱 I’m currently learning 
 <!--
 **HUHSAE/HUHSAE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
